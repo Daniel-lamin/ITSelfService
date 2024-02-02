@@ -1,0 +1,63 @@
+#content {
+        position: relative;
+}
+   
+#content img {
+	position: absolute;
+	top: 0px;
+    right: 0px;
+}
+body {
+  background-image: url("images/background.png");
+  background-size: cover;
+}
+
+h1 {
+  display: block;
+  font-size: 4em;
+  margin-top: 0.67em;
+  margin-bottom: 0.2em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color: White;
+  font-family: 'Red Hat Display Light', sans-serif;
+}
+
+h2 {
+  display: block;
+  font-size: 2em;
+  margin-top: 0em;
+  margin-bottom: 0.67em;
+  margin-left: 8.4em;
+  margin-right: 0;
+  font-weight: bold;
+  color: White;
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+a:link, a:visited {
+  border: 2px solid #B4F62A;
+  background-color: #06103D;
+  color: white;
+  
+  font-family: 'Red Hat Display', sans-serif;
+  padding: 50px 50px;
+  border-radius: 12px;
+  font-size: 30px;
+  width: 450px;
+  height: 60px;
+  margin: 40px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+a:hover, a:active {
+  background-color: #FFFFFF;
+  color: #06103D;
+  border: 2px solid #B4F62A;
+}

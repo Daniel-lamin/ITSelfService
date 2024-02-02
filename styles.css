@@ -1,0 +1,66 @@
+#content {
+        position: relative;
+}
+   
+img {
+	position: absolute;
+	bottom: 50px;
+	right: 50px;
+}
+body {
+  background-image: url("images/background.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  display: block;
+  font-size: 4em;
+  margin-top: 0.67em;
+  margin-bottom: 0.2em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color: White;
+  font-family: 'Red Hat Display Light', sans-serif;
+}
+
+h2 {
+  display: block;
+  font-size: 2em;
+  margin-top: 0em;
+  margin-bottom: 0.67em;
+  margin-left: 8.4em;
+  margin-right: 0;
+  font-weight: bold;
+  color: White;
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+a:link, a:visited {
+  border: 2px solid #B4F62A;
+  background-color: #06103D;
+  color: white;
+  
+  font-family: 'Red Hat Display', sans-serif;
+  padding: 50px 50px;
+  border-radius: 12px;
+  font-size: 30px;
+  width: 420px;
+  height: 60px;
+  margin: 40px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+a:hover, a:active {
+  background-color: #FFFFFF;
+  color: #06103D;
+  border: 2px solid #B4F62A;
+}

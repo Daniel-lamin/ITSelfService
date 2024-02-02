@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CAE IT Support</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+	<h1>Welcome to the CAE IT Self-Service Portal</h1>
+	<h2>Please select the appropriate option below to open a ticket:</h2>
+	
+	<a href="https://cae-dwp.onbmc.com/dwp/app/#/srm/profile/SRGHRAG0BWQDSARTZXCCRTZXCCUYMN/srm" target="_self">Request For Assistance</a>
+	<a href="https://passwordreset.microsoftonline.com/?whr=cae.com" target="_self">Password Reset</a>
+	<a href="https://cae-dwp.onbmc.com/dwp/app/#/srm/profile/SRGAA5V0GMV25APDC8R0PCGA8V8R47/srm" target="_self">File Access Request</a>
+	<a href="https://passwordreset.microsoftonline.com/?whr=cae.com" target="_self">Account unlock</a>
+	<a href="https://cae-dwp.onbmc.com/dwp/app/#/itemprofile/411" target="_self">Hardware Request</a>
+	<a href="https://cae-dwp.onbmc.com/dwp/app/#/srm/profile/SRGAQG8CCFAM4AR7FABGR7FABGIKIK/srm" target="_self">Company Mobile Request</a>
+	<a href="https://cae-dwp.onbmc.com/dwp/app/#/srm/profile/SRGBBEUAA8FUAARMI29URMI29U4Y2K/srm" target="_self">Corporate Software Request</a>
+	<a href="https://cae-dwp.onbmc.com/dwp/app/#/srm/profile/SRGAA5V0GMV25APC2QTCPB60PLMJ2V/srm" target="_self">Shared Mailbox Request</a>
+	<img src="images/White.png" height=150px />
+
+</body>
+
+</html>
