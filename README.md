@@ -5,9 +5,9 @@ A static local site that can be used locally at CAE Training Centers as a self-s
 
 ### 1) Equipment required:
 1x PC (non-CAE W10/11 image)
-1x touchscreen display
+\n1x touchscreen display
 
-### 2) Download latest release (#link#)
+### 2) Download latest release (![link](https://github.com/Daniel-lamin/ITSelfService/releases/))
 Once downloaded extract .zip to C:\temp\main
 
 ### 3) Configure Windows in Kiosk user mode
