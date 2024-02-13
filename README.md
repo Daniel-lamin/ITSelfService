@@ -35,6 +35,9 @@ Alternatively you can [modify the registry directly](https://learn.microsoft.com
 
 ### 7) Once this is done, reboot the device - You've now successfully configured an ITSelfService Kiosk for your site. Thanks for following and good luck solving all of those new tickets 😁
 
+![](https://github.com/Daniel-lamin/ITSelfService/assets/94974969/c556a74d-91d0-4403-8344-8a89cdf3c333)
+
+
 Please note this guide is for a non-CAE imaged PC -> It is possible to configure on a CAE imaged device but there are extra steps. Please [get in touch](mailto:daniel.fitzgerald@cae.com) if you require further assistance.
 
 
